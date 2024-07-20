@@ -34,11 +34,8 @@ Here are the programming languages and technologies I'm proficient in:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## Contact
 
-You can reach me via email at neevj2006@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/neev-jain-898819210/).
-
-Thank you for visiting my GitHub profile!
+<h4 align="center"> Thank you for visiting my GitHub profile!</h4>
 
 <!--
 **neevjain2006/neevjain2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! Here you'll find my projects and contributions. Below you can find links to my portfolio website and social media profiles.
 
+## About Me
+I'm Neev Jain (he/him), a student at Boston University studying Computer Engineering.
+
 ## Portfolio
 
 Check out my portfolio website: [Click here...](https://neevjain2006.github.io/portfolio/)

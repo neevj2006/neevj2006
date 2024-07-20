@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you'll find my projects and contributions. Be
 
 ## Portfolio
 
-Check out my portfolio website: [neev-portfolio.com](https://neevjain2006.github.io/portfolio/)
+Check out my portfolio website: [Click here...](https://neevjain2006.github.io/portfolio/)
 
 ## Connect with Me
 

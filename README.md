@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nee Jain</h1>
+<h1 align="center">Hi 👋, I'm Neev Jain</h1>
 <h3 align="center">A Student Developer from India</h3>
 
 - 🔭 I’m currently working on **discord-clone**

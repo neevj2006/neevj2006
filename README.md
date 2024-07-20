@@ -1,9 +1,12 @@
-# Neev's GitHub Profile
+<h1 align="center">Hi 👋, I'm Nee Jain</h1>
+<h3 align="center">A Student Developer from India</h3>
+
+- 🔭 I’m currently working on **discord-clone**
+- 📫 How to reach me: neevj2006@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: **I'm a bad singer who sings a lot**
 
 Welcome to my GitHub profile! Here you'll find my projects and contributions. Below you can find links to my portfolio website and social media profiles.
-
-## About Me
-I'm Neev Jain (he/him), a student at Boston University studying Computer Engineering.
 
 ## Portfolio
 

@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1L8wDjAplXK0aTpjUbL8gqkEG8hI__9f8/view?usp=sharing)
 
-- ⚡ Fun fact **I'm a bad singer who sings a lot and I love good food**
+- ⚡ Fun fact **I love good food**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

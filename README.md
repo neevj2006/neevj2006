@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neev Jain</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **nothing right now.** If you have any project ideas you want to collaborate on pls do [contact me](#connect-with-me)
+<!-- - 🔭 I’m currently working on **nothing right now.** If you have any project ideas you want to collaborate on pls do [contact me](#connect-with-me) -->
+- 🔭 I’m currently working on **Flashcard Quiz App For Students**
 
 - 🌱 I’m currently learning **Next.js**
 

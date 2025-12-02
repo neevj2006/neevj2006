@@ -2,9 +2,6 @@
 <h3 align="center">A passionate web developer from India</h3>
 
  - 🔭 I’m currently working on **nothing right now.** If you have any project ideas you want to collaborate on pls do [contact me](#connect-with-me)
-<!-- - 🔭 I’m currently working on **Flashcard Quiz App For Students** -->
-
-- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [My Website](https://neevj2006.github.io/portfolio/)
 

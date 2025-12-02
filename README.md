@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **neevj2006@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1L8wDjAplXK0aTpjUbL8gqkEG8hI__9f8/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1K4DnLXQEbjG4hgdDGx96IchVxYhzDL0a/view?usp=sharing)
 
 - ⚡ Fun fact **I like to sing even though i don't know how to sing**
 
